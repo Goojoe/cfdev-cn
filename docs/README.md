@@ -1,3 +1,5 @@
 # cloudflare开发者中文文档
 
-机翻的
+本文档使用Deepl机器翻译,会有很多问题,欢迎提issue
+
+[Cloudflare官方文档](https://developers.cloudflare.com/cloudflare-one/)
